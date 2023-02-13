@@ -27,7 +27,7 @@ string[] LenSubString(int len, string str)
         string result = "";
         foreach (string item in s)
         {
-            if (item.Length >= len)
+            if (item.Length <= len)
             {
                 result += item + " ";
             }
@@ -44,7 +44,7 @@ PrintArr(resultArr);
 string[] LenSubString2(int len, string str)
 {
     string[] itemsArr = str.Split(' ');
-    string[] resultArr = itemsArr.Where(substring => substring.Length >= 3).ToArray();
+    string[] resultArr = itemsArr.Where(substring => substring.Length <= 3).ToArray();
     return resultArr;
 }
 
