@@ -1,0 +1,15 @@
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/bin/Debug/net7.0/HW C#
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/bin/Debug/net7.0/HW C#.deps.json
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/bin/Debug/net7.0/HW C#.runtimeconfig.json
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/bin/Debug/net7.0/HW C#.dll
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/bin/Debug/net7.0/HW C#.pdb
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.csproj.AssemblyReference.cache
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.AssemblyInfoInputs.cache
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.AssemblyInfo.cs
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.csproj.CoreCompileInputs.cache
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.dll
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/refint/HW C#.dll
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.pdb
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/HW C#.genruntimeconfig.cache
+/Users/nikitapopov/Downloads/GeekBR/домашки/resultHW/HW C#/obj/Debug/net7.0/ref/HW C#.dll
